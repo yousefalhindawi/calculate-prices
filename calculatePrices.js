@@ -21,7 +21,7 @@ function calculatePrices(search_start, search_end, arr) {
             return (day >= priceStart) && (day <= priceEnd);
         });
 
-        // If a price is found we add it to the final price
+        // If a price is found add it to the final price
         if (priceForDay) {
             final_price += priceForDay.price;
         }
