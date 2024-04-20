@@ -18,3 +18,5 @@ Open a terminal and make sure it is open in the root folder (calculate-prices), 
 Open a terminal and make sure it is open in the root folder (calculate-prices), write the command below, and then run it (by pressing enter on the keyboard):
 
     node calculatePrices.js
+    OR 
+    node calculatePrices2.js
