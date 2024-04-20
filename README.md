@@ -19,4 +19,4 @@ Open a terminal and make sure it is open in the root folder (calculate-prices), 
 
     node calculatePrices.js
 OR
-    node calculatePrices2.js
+    node calculatePrices.js
